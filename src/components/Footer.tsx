@@ -11,11 +11,11 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-xl font-bold mb-4">Sneha Agrawal</h3>
             <p className="text-gray-400 mb-4">
-              A passionate Software Engineer & Web Developer building modern and responsive web applications.
+              An Associate Product Manager who thrives in technical expertise and product-empathetic thinking.
             </p>
             <div className="flex space-x-4">
               <a 
-                href="https://github.com" 
+                href="https://github.com/agrawal--sneha" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-blue-400 transition-colors"
